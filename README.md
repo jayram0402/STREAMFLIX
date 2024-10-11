@@ -9,18 +9,20 @@ StreamFlix is a robust video streaming platform that allows users to enjoy a sea
 
 ## Features
 
-- **Dynamic Video Streaming**: Users can watch high-quality videos seamlessly, regardless of their internet connection.
-- **Content Protection**: Enhanced Digital Rights Management (DRM) security safeguards your valuable content from unauthorized access and piracy.
-- **Storage Flexibility**: Choose between cloud storage with **Amazon S3** or host your content on your own servers, ensuring flexibility to meet your needs.
-- **User-Friendly Interface**: A modern and responsive UI built with **React.js** for an engaging user experience.
-- **Scalable Architecture**: Built with microservices architecture using **Spring Boot** to handle growing user demand effortlessly.
+- 📺 **Dynamic Video Streaming**: Users can watch high-quality videos seamlessly, regardless of their internet connection.
+- 🔒 **Content Protection**: Enhanced Digital Rights Management (DRM) security safeguards your valuable content from unauthorized access and piracy.
+- ☁️ **Storage Flexibility**: Choose between cloud storage with **Amazon S3** or host your content on your own servers, ensuring flexibility to meet your needs.
+- 🖥️ **User-Friendly Interface**: A modern and responsive UI built with **React.js** for an engaging user experience.
+- 📈 **Scalable Architecture**: Built with microservices architecture using **Spring Boot** to handle growing user demand effortlessly.
 
 ## Technologies Used
 
 ### Backend
+
 - **Java** with **Spring Boot**: For building a powerful RESTful API that powers the backend services, enabling rapid development and easy maintenance.
 - **Spring Data JPA**: Simplifies database interactions and allows easy integration with **MySQL** for efficient data management.
 - **Docker**: Containerizes the application for consistent deployment across various environments.
+- **Spring Boot**: For backend development
 - **FM Pack**: Utilized for video encoding and creating HLS playlists, ensuring compatibility with various devices.
 - **Jenkins**: Automates testing and deployment processes, enabling Continuous Integration and Continuous Deployment (CI/CD) for reliable software delivery.
 
