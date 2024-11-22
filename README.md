@@ -7,6 +7,15 @@ Here's the updated **README.md** for the **StreamFlix** project, now emphasizing
 
 StreamFlix is a robust video streaming platform that allows users to enjoy a seamless viewing experience. With flexible storage options on **Amazon S3** or on-premise servers, StreamFlix ensures your content is always accessible and secure. The platform incorporates advanced video encoding techniques and HLS playlist creation for optimal streaming performance.
 
+### System Design of application:
+
+![streamflex system design](https://github.com/user-attachments/assets/7a496c39-e4f2-4500-b3e2-0691c7c84d57)
+
+### DevOps Deployment Flow:
+
+![system_flow_streamflix](https://github.com/user-attachments/assets/de6384d4-1170-49cf-bde5-da779104dbbf)
+
+
 ## Features
 
 - 📺 **Dynamic Video Streaming**: Users can watch high-quality videos seamlessly, regardless of their internet connection.
