@@ -13,7 +13,7 @@ StreamFlix is a robust video streaming platform that allows users to enjoy a sea
 
 ### DevOps Deployment Flow:
 
-![system_flow_streamflix](https://github.com/user-attachments/assets/de6384d4-1170-49cf-bde5-da779104dbbf)
+![system_flow_streamflix](https://github.com/user-attachments/assets/df2fb1fb-70be-41dc-9442-6df72da86176)
 
 
 ## Features
